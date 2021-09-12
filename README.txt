@@ -1,1 +1,3 @@
-I'm learning Giit.
+I'm learning Git.
+I created a remote respository.
+
